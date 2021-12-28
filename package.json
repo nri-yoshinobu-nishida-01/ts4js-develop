@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nri-yoshinobu-nishida-01/ts4js-develop/issues"
   },
-  "homepage": "https://github.com/nri-yoshinobu-nishida-01/ts4js-develop#readme"
+  "homepage": "https://github.com/nri-yoshinobu-nishida-01/ts4js-develop#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
 }
